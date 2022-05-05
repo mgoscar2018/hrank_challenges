@@ -47,5 +47,4 @@ function processData2(input) { //versión con Objetos
         else 
           console.log('Not found');
     }
-
 }
