@@ -1,7 +1,7 @@
 /*
 https://www.hackerrank.com/challenges/flipping-the-matrix
 
-If you need a graphical explanation to know how works this, please review this document:
+If you need a graphical explanation to understand how works this, please review this document:
 https://docs.google.com/spreadsheets/d/1vGX8IO4o7UNO4ADxGrkittBIet6eIxm8Vq6sgkHmsyA/edit?usp=sharing
 
 112   42   83  119
