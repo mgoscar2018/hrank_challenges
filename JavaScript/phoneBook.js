@@ -3,7 +3,7 @@ https://www.hackerrank.com/challenges/linkedin-practice-dictionaries-and-maps/
 */
 
 let fs = require('fs');
-let archivo = fs.readFileSync('input01.txt', 'utf-8');
+let archivo = fs.readFileSync('Test/input01.txt', 'utf-8');
 processData (archivo); //Map version
 processData2 (archivo); //Object version
 
