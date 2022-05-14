@@ -10,4 +10,7 @@
     * **URL:** https://www.hackerrank.com/challenges/30-2d-arrays
     * **file:** 2dArrays.js
     * **Explanation:** https://docs.google.com/spreadsheets/d/1_2xb1tRenzbHk59yhdSpPog2o52T-BmQBFcT-y9XpMQ/edit?usp=sharing
+* Caesar Cipher: Encryption
+    * **URL:** https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher
+    * **file:** caesarCipher.js
 * Next
